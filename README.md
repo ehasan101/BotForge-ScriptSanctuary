@@ -23,4 +23,11 @@ Let’s build a sanctuary of unstoppable bots together!
 
 > *“In the ScriptSanctuary, every script/bot is a weapon forged to conquer bugs & secure the digital frontier.”*
 — The UNKNOWN 🤖
+<<<<<<< HEAD
 >>>>>>> 0ef81b1 (Update README.md)
+=======
+
+<br> 
+
+### #HappyCoding #HappyHunting
+>>>>>>> eab821b (Update README.md)
