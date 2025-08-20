@@ -20,7 +20,8 @@ Let’s build a sanctuary of unstoppable bots together!
 <br> 
 
 > *“In the ScriptSanctuary, every script/bot is a weapon forged to conquer bugs & secure the digital frontier.”*
-— The UNKNOWN 🤖
+
+ — The UNKNOWN 🤖
 
 
 <br> 
