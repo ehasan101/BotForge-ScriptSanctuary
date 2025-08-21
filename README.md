@@ -1,5 +1,7 @@
-
 # BotForge - ScriptSanctuary 🤖
+
+![cover](/cover-BotForge-3.jpg)
+
 Welcome to **ScriptSanctuary**, a futuristic haven where automation dreams are forged into hunting reality. 
 This is your digital workshop—a place where automation bots are meticulously crafted, and scripts are refined to perfection. 
 Dive into a vibrant ecosystem of code, creativity, & cutting-edge tech vibes.
@@ -26,4 +28,5 @@ Let’s build a sanctuary of unstoppable bots together!
 
 <br> 
 
+### #HappyHunting #HappyCoding
 
