@@ -14,10 +14,14 @@ Let’s build a sanctuary of unstoppable bots together!
 
 
 ## Get Started
-1. **Clone the Sanctuary**: `https://github.com/ehasan101/BotForge-ScriptSanctuary.git`
-2. **Enter the Forge**: Dive into the `bots/` directories to explore or contribute.
-3. **Craft Your Bot**: Use our bots or bring your own ideas to huntinglife.
-4. **Refine & Share**: Test, tweak, and push your creations to the Sanctuary for others to admire.
+1. **Clone the Sanctuary**:
+   ```bash
+   git clone https://github.com/ehasan101/BotForge-ScriptSanctuary.git
+   cd BotForge-ScriptSanctuary
+   ```
+3. **Enter the Forge**: Dive into the `bots/` directories to explore or contribute.
+4. **Craft Your Bot**: Use our bots or bring your own ideas to huntinglife.
+5. **Refine & Share**: Test, tweak, and push your creations to the Sanctuary for others to admire.
 
 <br> 
 
