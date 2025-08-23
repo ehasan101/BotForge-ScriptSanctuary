@@ -11,7 +11,7 @@ with sync_playwright() as p:
 # TS-2: Go to second page 
     page.get_by_role("link", name="Window Operations").click()
     page.locator('//b[normalize-space(.)="Replace Window"]').click()
-    print(f"2. Navigated to: {page.url}")
+    print(f"2. Navigated to another page: {page.url}")
 
 
 # TS-3: Now go back Home Pahe
@@ -19,7 +19,7 @@ with sync_playwright() as p:
     page.wait_for_load_state()
     page.go_back()
     page.wait_for_load_state()
-    print(f"3. After go_back(): {page.url}")
+    print(f"3. After go back: {page.url}")
 
 
 # TS-4: Verify we are on the home page
@@ -30,13 +30,12 @@ with sync_playwright() as p:
 # TS-5: Now we move forward
     page.go_forward()
     page.wait_for_load_state()
-    print(f"5. After go_forward(): {page.url}")
+    print(f"5. After go forward: {page.url}")
 
 # TS-6: Reload page
     page.reload()
     page.wait_for_load_state()
-    print(f"6. After reload(): {page.url}")
-
+    print(f"6. Reload this page: {page.url}")
 
 
     browser.close()

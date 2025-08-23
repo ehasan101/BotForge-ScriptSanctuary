@@ -20,7 +20,7 @@ Let’s build a sanctuary of unstoppable bots together!
    cd BotForge-ScriptSanctuary
    ```
 3. **Enter the Forge**: Dive into the `bots/` directories to explore or contribute.
-4. **Craft Your Bot**: Use our bots or bring your own ideas to huntinglife.
+4. **Craft Your Bot**: Use my bots or bring your own ideas to huntingLife.
 5. **Refine & Share**: Test, tweak, and push your creations to the Sanctuary for others to admire.
 
 <br> 
