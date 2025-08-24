@@ -22,7 +22,7 @@ with sync_playwright() as p:
     print(f"3. After go back: {page.url}")
 
 
-# TS-4: Verify we are on the home page
+# TS-4: Verify that we are on the home page
     expect(page.get_by_role("heading", name="Welcome to your software automation practice website!"))
     print(f"4. Successfully navigated to Home Page: {page.url}")
 
