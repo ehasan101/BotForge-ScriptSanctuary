@@ -14,7 +14,7 @@ with sync_playwright() as p:
     print(f"2. Navigated to another page: {page.url}")
 
 
-# TS-3: Now go back Home Pahe
+# TS-3: Now go back Home Page
     page.go_back()
     page.wait_for_load_state()
     page.go_back()
@@ -22,7 +22,7 @@ with sync_playwright() as p:
     print(f"3. After go back: {page.url}")
 
 
-# TS-4: Verify we are on the home page
+# TS-4: Verify that we are on the home page
     expect(page.get_by_role("heading", name="Welcome to your software automation practice website!"))
     print(f"4. Successfully navigated to Home Page: {page.url}")
 
@@ -35,7 +35,7 @@ with sync_playwright() as p:
 # TS-6: Reload page
     page.reload()
     page.wait_for_load_state()
-    print(f"6. Reload this page: {page.url}")
+    print(f"6. Page Reload: {page.url}")
 
 
     browser.close()

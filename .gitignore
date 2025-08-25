@@ -3,6 +3,7 @@ stag1/
 
 bots/.pytest_cache/
 bots/__pycache__/
+bots/test.py
 
 __pycache__/
 *.pyc
