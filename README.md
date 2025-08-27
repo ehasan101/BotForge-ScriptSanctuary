@@ -15,13 +15,9 @@ Let’s build a sanctuary of unstoppable bots together!
 <br>
 
 ## Get Started
-### 1. **Clone the Sanctuary**: <br>
+### 1. **Clone the Sanctuary**:
 
-   
 **::: For Python Playwright :::** <br>
-   
-
-   
 Before running the script, you need to have the following installed on your system:
 - Python 3.7+
 - pip (Python package installer)
@@ -54,11 +50,14 @@ _All scripts are configured to run with **headless=False** so it will open a vis
 
 ---
    
-### 3. Enter the Forge: Dive into the `bots/` directories to explore or contribute.
+### 3. Enter the Forge: 
+Dive into the `bots/` directories to explore or contribute.
 
-### 4. Craft Your Bot: Use my bots or bring your own ideas to huntingLife.
+### 4. Craft Your Bot: 
+Use my bots or bring your own ideas to huntingLife.
 
-### 5. Refine & Share: Test, tweak, and push your creations to the Sanctuary for others to admire.
+### 5. Refine & Share: 
+Test, tweak, and push your creations to the Sanctuary for others to admire.
 
 <br>
 
